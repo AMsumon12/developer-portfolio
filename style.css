@@ -1,0 +1,36 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    border: 5px solid tomato;
+    padding-top: 5px;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 800;
+}
+.img1{
+    width: 40%;
+}
